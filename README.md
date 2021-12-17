@@ -1,3 +1,7 @@
+
+![alt text](https://github.com/igormachado/Desafio01-trilha-Nodejs/blob/main/ignite.png?raw=true)
+
+
 # Desafio01-trilha-Nodejs
 # 💻 Sobre o desafio
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no Node.js!
